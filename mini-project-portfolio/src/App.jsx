@@ -3,6 +3,7 @@
 // App.jsx
 import './App.css'
 import HeroImage from './components/HeroImage'
+import './components/HeroImage.css'
 
 function App() {
 
